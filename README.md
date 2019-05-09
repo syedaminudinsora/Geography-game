@@ -1,7 +1,7 @@
 # Geography-game
 Test your geography skills
 
-Technologies uses:
--Html
--Css/Bootstrap
+Technologies uses:</br>
+-Html</br>
+-Css/Bootstrap</br>
 -Javascript
