@@ -1,5 +1,5 @@
 # Geography-game
-Test your geography skills
+Using the svg path method without using any API
 
 Technologies uses:</br>
 -Html</br>
