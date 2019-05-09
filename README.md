@@ -6,4 +6,4 @@ Technologies uses:</br>
 -Css/Bootstrap</br>
 -Javascript
 
-![front page](https://user-images.githubusercontent.com/39555628/57438241-11b08800-7276-11e9-9ffa-569c43119f9a.png)
+![game start](https://user-images.githubusercontent.com/39555628/57438451-8a174900-7276-11e9-8659-7c7a9f2893a3.png)
