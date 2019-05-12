@@ -1,5 +1,5 @@
 # Geography-game
-Using the svg path method without using any API
+Using the svg path method without any API integration
 
 Technologies uses:</br>
 -Html</br>
